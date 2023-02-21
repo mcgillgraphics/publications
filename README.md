@@ -1,4 +1,3 @@
-# publications
 # Lab Publications
 
 ## Instructions 
