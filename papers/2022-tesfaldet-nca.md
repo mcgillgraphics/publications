@@ -1,6 +1,7 @@
 ---
 layout: pub
 tag: research
+image-dir: assets
 permalink: /publications/nca
 featured: false
 publication-date: 12-22

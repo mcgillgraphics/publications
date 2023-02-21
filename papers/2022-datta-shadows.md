@@ -1,6 +1,7 @@
 ---
 layout: pub
 tag: research
+image-dir: assets
 permalink: /publications/neural-shadow-mapping
 featured: true
 publication-date: 11-22
@@ -43,9 +44,9 @@ doi: 10.1145/3528233.3530700
 month: July
 year: 2022
 
-thumbnail: ../assets/2022-datta-neural-shadows/neural-shadows-thumb.png
+thumbnail: 2022-datta-neural-shadows/neural-shadows-thumb.png
 thumbnail-video:
-teaser: ../assets/2022-datta-neural-shadows/neural-shadows-teaser.png
+teaser: 2022-datta-neural-shadows/neural-shadows-teaser.png
 teaser-caption: |
     Our hard and soft shadowing method approaches the quality of offline ray tracing whilst striking a favorable position on the performance-accuracy spectrum. On the high-performance end, we produce higher quality results than <em>n</em>×<em>n</em> Moment Shadow Maps (MSM-<em>n</em>). We require only vanilla shadow mapping inputs to generate visual (and temporal) results that approach ray-traced reference, surpassing more costly denoised interactive ray-traced methods.
 
@@ -58,7 +59,7 @@ acknowledgements: |
 downloads:
     published: True
     paper:
-        - file: ../assets/2022-datta-neural-shadows/neural-shadows.pdf
+        - file: 2022-datta-neural-shadows/neural-shadows.pdf
           size: 3.5MB
     arxiv:
         url:

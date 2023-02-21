@@ -1,6 +1,7 @@
 ---
 layout: pub
 tag: research
+image-dir: assets
 permalink: /publications/torch
 featured: false
 publication-date: 07-22
@@ -57,9 +58,9 @@ doi: 10.1145/3528233.3530737
 month: July
 year: 2022
 
-thumbnail: ../assets/2022-rabbani-torch/torch-thumbnail.png
+thumbnail: 2022-rabbani-torch/torch-thumbnail.png
 thumbnail-video:
-teaser: ../assets/2022-rabbani-torch/torch-teaser.png
+teaser: 2022-rabbani-torch/torch-teaser.png
 teaser-caption: |
     Rocket (top left) illustrates large scale smoke and fire and BurningMan (bottom left) showcases a complex usercontrolled dynamic scene: our Poisson filter solver enforces incompressibility at interactive rates. Right: 50th-order inverse Poisson kernel, its first four rank terms and associated convolution filters.
 
@@ -71,7 +72,7 @@ acknowledgements:
 downloads:
     published: True
     paper:
-        - file: ../assets/2022-rabbani-torch/torch.pdf
+        - file: 2022-rabbani-torch/torch.pdf
           size: 19.3 MB
     arxiv:
         url:

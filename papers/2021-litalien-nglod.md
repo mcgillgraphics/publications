@@ -1,6 +1,7 @@
 ---
 layout: pub
 tag: research
+image-dir: assets
 permalink: /publications/nglod
 featured: false
 publication-date: 01-21
@@ -67,9 +68,9 @@ doi:
 month: January
 year: 2021
 
-thumbnail: ../assets/2021-litalien-nglod/nglod-thumb.png
-thumbnail-video: ../assets/2021-litalien-nglod/nglod-thumb.mp4
-teaser: ../assets/2021-litalien-nglod/nglod-teaser.png
+thumbnail: 2021-litalien-nglod/nglod-thumb.png
+thumbnail-video: 2021-litalien-nglod/nglod-thumb.mp4
+teaser: 2021-litalien-nglod/nglod-teaser.png
 teaser-caption: |
   We are able to fit shapes of varying complexity, style, scale, with consistently good quality, while being able to leverage the geometry for shading, ambient occlusion, and even shadows with secondary rays.
 
