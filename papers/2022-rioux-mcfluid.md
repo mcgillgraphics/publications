@@ -55,9 +55,9 @@ doi: 3550454.3555450
 month: November
 year: 2022
 
-thumbnail: /assets/2022-rioux-mcfluid/mcfluid-thumb.png
+thumbnail: ../assets/2022-rioux-mcfluid/mcfluid-thumb.png
 thumbnail-video:
-teaser: /assets/2022-rioux-mcfluid/mcfluid-teaser.png
+teaser: ../assets/2022-rioux-mcfluid/mcfluid-teaser.png
 teaser-caption: |
     We simulate two leapfrogging vortex rings (top) with a cross section visualization to illustrate the interior flow. We passively advect constant density fields toward closed mesh (middle) and triangle soup Stanford bunnies (bottom). We render all simulations with Blender’s principled volume shader.
 
@@ -69,7 +69,7 @@ acknowledgements:
 downloads:
     published: True
     paper:
-        - file: /assets/2022-rioux-mcfluid/mcfluid.pdf
+        - file: ../assets/2022-rioux-mcfluid/mcfluid.pdf
           size: 13.8MB
     arxiv:
         url:
@@ -87,7 +87,7 @@ downloads:
         size:
         url:
     bibtex:
-        file: /assets/2022-rioux-mcfluid/mcfluid.bib
+        file: ../assets/2022-rioux-mcfluid/mcfluid.bib
         size: 0.5KB
 
 tex: |

@@ -49,8 +49,8 @@ doi: 10.1145/3388538
 month: May
 year: 2020
 
-thumbnail: /assets/2020-rioux-drmlt/drmlt-thumb.png
-teaser: /assets/2020-rioux-drmlt/drmlt-teaser.png
+thumbnail: ../assets/2020-rioux-drmlt/drmlt-thumb.png
+teaser: ../assets/2020-rioux-drmlt/drmlt-teaser.png
 teaser-caption: |
     We generalize the Metropolis–Hastings algorithm with delayed rejection: our <em>delayed rejection Metropolis light transport</em> (DRMLT) method selectively applies different mutation strategies, improving upon one-stage primary sample space algorithms, i.e., PSSMLT with Gaussian proposals (PSSMLT / G) and H2MC. One variant of our method first attempts an isotropic Gaussian proposal, resorting to more intricate kernels (that improve local exploration with differential information) only when the first attempt failed, e.g., on rough dielectrics. DRMLT focuses computations in hard-to-explore regions without compromising quality in comparatively simpler regions (e.g., on the board). We visualize a per-pixel relative second-stage acceptance, where violet and yellow extremes respectively indicate the efficiency of the first and second stages.
 
@@ -63,7 +63,7 @@ acknowledgements: |
 downloads:
     published: True
     paper:
-        - file: /assets/drmlt/drmlt.pdf
+        - file: ../assets/drmlt/drmlt.pdf
           size: 21.5MB
     publisher:
         url: https://dl.acm.org/doi/abs/10.1145/3388538
